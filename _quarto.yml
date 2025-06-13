@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "MDAL"
+  search: true
+  navbar:
+    right:
+      - text: Home
+        icon: house-fill
+        href: index.qmd
+  page-footer: 
+    left: 
+      - text: "&copy; 2025, MDAL"
+        href: index.qmd
+    right: "Built with [Quarto](https://quarto.org/)."
+  back-to-top-navigation: false
+
+format:
+  html:
+    theme: 
+      - litera
+    fontsize: 1em
+    toc: false
+
+editor: visual
+
