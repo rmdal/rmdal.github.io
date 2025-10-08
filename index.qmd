@@ -15,6 +15,7 @@ Welcome to the new MDAL Computing site. This site is dedicated to providing reso
 -   [Exploring Website Frontends](https://rmdal.github.io/website-frontend/)
 -   [Mastering Binary Classification Metrics](https://rmdal.github.io/bc-metrics/)
 -   [First Contact with Web APIs: An Interactive Intro](https://rmdal.github.io/web-api-live/)
+-   [Finance with Python - A Few Examples](https://rmdal.github.io/py-fin/)
 
 ------------------------------------------------------------------------
 
