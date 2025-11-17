@@ -8,6 +8,12 @@ Welcome to the new MDAL Computing site. This site is dedicated to providing reso
 
 ------------------------------------------------------------------------
 
+### Research Coding and Computing
+
+-   [Notes for the Workshop: *Modern Research Toolkit (with Python)*](https://rmdal.github.io/research-with-python/)
+
+------------------------------------------------------------------------
+
 ### RC Coding Cafe Series
 
 -   [Python Crash Course: Learn by Doing](https://rmdal.github.io/python-tutorial-live/)
