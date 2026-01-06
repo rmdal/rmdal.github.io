@@ -27,5 +27,6 @@ Welcome to the new MDAL Computing site. This site is dedicated to providing reso
 
 ### Workshops
 
+-  [Python Intro (Commerce/RSM338, Winter 2026)](https://rmdal.github.io/python-intro-2026-winter/)
 -  [Intro to Data Visualization with Python (MMA, 2025)](https://rmdal.github.io/mma-dv-2025/)
 -  [Python Intro (Commerce/RSM338, Fall 2025)](https://rmdal.github.io/python-intro-2025-fall/)
