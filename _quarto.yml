@@ -3,9 +3,10 @@ project:
   output-dir: docs
 
 website:
-  title: "MDAL"
+  # title: "MDAL"
   search: true
   navbar:
+    logo: mdal.png
     right:
       - text: Home
         icon: house-fill
