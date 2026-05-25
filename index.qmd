@@ -25,6 +25,7 @@ Welcome to the new MDAL Computing site. This site is dedicated to providing reso
 -   [Softmax & Cross-Entropy: A Winning Combo](https://rmdal.github.io/softmax-cross-entropy/)
 -   [Gradient Flows: Autodiff and Backprop from Scratch](https://rmdal.github.io/autodiff-backprop/)
 -   [Trapped Knight: A Math Puzzle with Python](https://rmdal.github.io/trapped-knight/)
+-   [Two Knights: Another Math Puzzle with Python](https://rmdal.github.io/two-knights/)
 
 ------------------------------------------------------------------------
 
