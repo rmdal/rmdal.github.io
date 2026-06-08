@@ -26,6 +26,8 @@ Welcome to the new MDAL Computing site. This site is dedicated to providing reso
 -   [Gradient Flows: Autodiff and Backprop from Scratch](https://rmdal.github.io/autodiff-backprop/)
 -   [Trapped Knight: A Math Puzzle with Python](https://rmdal.github.io/trapped-knight/)
 -   [Two Knights: Another Math Puzzle with Python](https://rmdal.github.io/two-knights/)
+-   Sandpiles with Python - Part 1 ([site](https://rmdal.github.io/sandpile/part1.html) or [colab notebook](https://colab.research.google.com/github/rmdal/sandpile/blob/master/docs/sandpile_part1.ipynb))
+-   Sandpiles with Python - Part 2 ([site](https://rmdal.github.io/sandpile/part2.html) or [colab notebook](https://colab.research.google.com/github/rmdal/sandpile/blob/master/docs/sandpile_part2.ipynb))
 
 ------------------------------------------------------------------------
 
